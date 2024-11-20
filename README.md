@@ -25,4 +25,19 @@ This repository contains a set of PowerShell scripts for automating system monit
   ```bash
   pwsh
   ```
+3.Make sure the scripts are executable. You can do this by setting the execute permission:
+```
+chmod +x *.ps1
+```
+## Setting Up a Cron Job for Automation
+1. Open your crontab file for editing:
+2. Add a cron job to run the automation script every hour:
+```bash
+crontab -e
+0 * * * * pwsh /path/to/your/scripts/automated_monitoring.ps1 >> /path/to/log/monitoring.log 2>&1
+```
+
+
+
+
 
