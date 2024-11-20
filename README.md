@@ -20,3 +20,9 @@ This repository contains a set of PowerShell scripts for automating system monit
    ```bash
    git clone https://github.com/your-username/PowerShell-Automation-System-Monitoring.git
    cd PowerShell-Automation-System-Monitoring
+   ```
+2. Ensure PowerShell is installed on your system. You can test it by running:
+  ```bash
+  pwsh
+  ```
+
