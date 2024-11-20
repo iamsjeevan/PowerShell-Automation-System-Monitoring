@@ -19,4 +19,4 @@ This repository contains a set of PowerShell scripts for automating system monit
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/PowerShell-Automation-System-Monitoring.git
-   cd PowerShell-Automation-System-Monitoring '''
+   cd PowerShell-Automation-System-Monitoring
