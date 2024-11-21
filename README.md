@@ -1,5 +1,5 @@
 # PowerShell Automation for System Monitoring
-
+# Works only for Macos
 This repository contains a set of PowerShell scripts for automating system monitoring tasks on macOS. The scripts monitor system resources like CPU usage, memory usage, and disk space, and they can be automated to run at regular intervals.
 
 ## Features
